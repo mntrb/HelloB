@@ -1,2 +1,5 @@
-puts "Odis is my little buddy"
-puts "Odis rocks"
+puts "Who is my little buddy?"
+mybuddy=gets
+mybuddy=mybuddy.chomp
+puts "#{mybuddy} is my little buddy"
+puts "#{mybuddy} rocks"
